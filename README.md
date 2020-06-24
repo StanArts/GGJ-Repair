@@ -5,3 +5,7 @@ The theme was "Repair" which inspired the plot of the game where two players hav
 Made in Unity.
 
 ## Gameplay:
+![alt text](info_media/GGJ.png "The Gun Repair Game")
+
+## How to play it?
+To download and install the game go [there](..master/Builds), choose your preffered operating system and download the available archive file.
