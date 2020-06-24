@@ -5,7 +5,8 @@ The theme was "Repair" which inspired the plot of the game where two players hav
 Made in Unity.
 
 ## How to play it?
-To download and install the game click [here](../master/Builds/), choose your preffered operating system and download the available archive file.
+To download and install the game click [here](../master/Builds/), choose your preffered operating system and download the available archive file. <br/>
+The blue player is controlled using WASD and the pink one using the Arrow keys, respectively.
 
 ## Gameplay:
 ![alt text](info_media/GGJ.png "The Gun Repair Game")
