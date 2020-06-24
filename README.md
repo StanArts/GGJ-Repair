@@ -8,4 +8,4 @@ Made in Unity.
 ![alt text](info_media/GGJ.png "The Gun Repair Game")
 
 ## How to play it?
-To download and install the game go [there](..master/Builds), choose your preffered operating system and download the available archive file.
+To download and install the game go [there](../blob/master/Builds), choose your preffered operating system and download the available archive file.
